@@ -2,11 +2,20 @@
 [![Status](https://img.shields.io/badge/Status-Complete-66BB6A?style=for-the-badge&link=https://github.com/kwing25/Professional-Portfolio-Website)](https://github.com/kwing25/)
 [![Status](https://img.shields.io/badge/Status-Maintained-81D4FA?style=for-the-badge&link=https://github.com/kwing25/Professional-Portfolio-Website)](https://github.com/kwing25/)
 [![Repo Type](https://img.shields.io/badge/Repo_Type-Public-f2de2b?labelColor=0bbfb9&style=for-the-badge&link=https://github.com/kwing25)](https://github.com/kwing25) 
-
-Weather dashboard using server side api. 
+[![Note](https://img.shields.io/badge/Note-Recently_Updated_for_HW_Resubmit-3cc9a3?style=for-the-badge&link=https://github.com/kwing25/Weather-Dashboard)](https://github.com/kwing25/Weather-Dashboard)
 
 ## Description:
+Weather dashboard using server side api. 
 
+![Screenshot of Site](https://raw.githubusercontent.com/kwing25/Weather-Dashboard/master/weatherdashboarddemopic.png)
+### Tecnologies:
+
+- Server Side API's
+- Weather API
+- Javascript
+- Bootstrap
+- CSS
+- HTML
 #### File Structure-
 ```
 📦Weather Dashboard
@@ -21,13 +30,13 @@ Weather dashboard using server side api.
 ```
 
 ## Links:
-- [Live Site](https://happy-shannon-a4d43f.netlify.app/)
-- [Repo](https://bitbucket.org/kwing25/weather-dashboard/src/master/)
+- [Live Site](https://kwing25.github.io/Weather-Dashboard/)
+- [Repo](https://github.com/kwing25/Weather-Dashboard)
 
 
 ## Status/Updates
 > - Created from previous weather dashboard project - Wed Jul 21, 2021
-> - Published and deployed from Netlify - Wed Jul 21, 2021
+> - Updated and published new Files - Fri Jul 30, 2021
 
 ---
 
